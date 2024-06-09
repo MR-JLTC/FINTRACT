@@ -1,5 +1,5 @@
 <div align="center">
-  ![headerlogo](/Files/headerlogo.png)
+  ![headerlogo](/Files/headerlogo/headerlogo.png)
 </div>
 <!-- MANPAGE: END EXCLUDED SECTION -->
 
