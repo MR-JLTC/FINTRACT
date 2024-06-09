@@ -1,5 +1,5 @@
 <div align="center">
-  ![headerlogo](FINTRACT/Files/headerlogo.png)
+  ![headerlogo](/Files/headerlogo.png)
 </div>
 <!-- MANPAGE: END EXCLUDED SECTION -->
 
