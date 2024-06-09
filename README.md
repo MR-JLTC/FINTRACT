@@ -1,5 +1,5 @@
 <div align="center">
-  ![headerlogo](https://github.com/MR-JLTC/FINTRACT/Files/headerlogo/headerlogo.png)
+  ![headerlogo](https://github.com/MR-JLTC/FINTRACT/Files/headerlogo.png)
 </div>
 <!-- MANPAGE: END EXCLUDED SECTION -->
 
