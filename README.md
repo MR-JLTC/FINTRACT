@@ -8,4 +8,10 @@ Unlock financial clarity with our CLI-powered personal financial tracker. Effort
 
 
 ### Termux Installation
+run the following commands:
 
+```
+git clone https://github.com/MR-JLTC/FINTRACT.git
+cd FINTRACT
+bash run.sh
+```
