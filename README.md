@@ -2,6 +2,7 @@
 
 ### Java System Availability
 [![Static Badge](https://img.shields.io/badge/termux%20-v1.0-beta)](#installation "Installation")
+[![Static Badge](https://img.shields.io/badge/Windows10%20-v1.0-beta)]()
 
 Unlock financial clarity with our CLI-powered personal financial tracker. Effortlessly log income and expenses, charting your financial journey with precision and control. Take command of your finances, one command at a time.
 
