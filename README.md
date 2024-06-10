@@ -46,34 +46,44 @@ x or q                                                                          
 ```
 
 ### Example Command Usage
+`<--USE OF AN ACCOUNT-->`
 ```
-<--USE OF AN ACCOUNT-->
 u acnt SchoolDays
+```
 
-<--ADDING-->
+`<--ADDING-->`
+```
 a acnt SchoolDays
 a exp Transportation 40 --date 6-10-2024
 a exp Transportation 40 --date today
 a inc coding 5000 --date 6-10-2024
 a inc coding 5000 --date today
+```
 
-<--DELETIONS-->
+`<--DELETIONS-->`
+```
 d exp 3
 d inc 3
+```
 
-<--EDITNG-->
+`<--EDITNG-->`
+```
 e exp 3 Transportation 50 --date 6-10-2024
 e exp 3 Transportation 50 --date today
 e inc 3 Transportation 50 --date 6-10-2024
 e inc 3 Transportation 50 --date today
+```
 
-<--SUMMARY REPORT IN TABLE FORMAT-->
+`<--SUMMARY REPORT IN TABLE FORMAT-->`
+```
 s exp --month 7
 s exp --month Sept
 s inc --month 7
 s inc --month Sept
+```
 
-<--GENERATING A PRINTABLE DOCUMENTS-->
+`<--GENERATING A PRINTABLE DOCUMENTS-->`
+```
 gd --month 7
 gd --month Sept
 gd acnt SchoolDays --month 7
