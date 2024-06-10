@@ -59,7 +59,7 @@ a inc coding 5000 --date today
 
 <--DELETIONS-->
 d exp 3
-d exp 3
+d inc 3
 
 <--EDITNG-->
 e exp 3 Transportation 50 --date 6-10-2024
