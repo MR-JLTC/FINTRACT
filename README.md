@@ -8,7 +8,7 @@
 Unlock financial clarity with our CLI-powered personal financial tracker. Effortlessly log income and expenses, charting your financial journey with precision and control. Take command of your finances, one command at a time.
 
 -----
-<div style="color: red;">CLI VERSION </div>
+## CLI VERSION
 
 ### Termux Installation
 1. Download the zip file, then extract it.
