@@ -74,7 +74,7 @@ e inc 3 Transportation 50 --date 6-10-2024
 e inc 3 Transportation 50 --date today
 ```
 
-`<--SUMMARY REPORT IN TABLE FORMAT-->`
+`<--SUMMARY REPORT-->`
 ```
 s exp --month 7
 s exp --month Sept
@@ -82,7 +82,7 @@ s inc --month 7
 s inc --month Sept
 ```
 
-`<--GENERATING A PRINTABLE DOCUMENTS-->`
+`<--GENERATE PRINTABLE DOCUMENT-->`
 ```
 gd --month 7
 gd --month Sept
