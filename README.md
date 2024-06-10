@@ -19,7 +19,7 @@ bash run.sh
 ### Windows Installation
 1. Download the system installer file
 2. Run the installer
-3. Click the .exe file
+3. Click the `.exe` file
 
 ### Available Commands:
 ```
