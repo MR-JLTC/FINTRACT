@@ -2,6 +2,7 @@
 
 ## :octocat:SYSTEM AVAILABILITY
 `CLI VERSION`
+
 [![Static Badge](https://img.shields.io/badge/Termux%20-v1.0beta%20-g)](FINTRACT/releases/termux)
 [![Static Badge](https://img.shields.io/badge/Windows10%20-v1.0beta%20-blue)](FINTRACT/releases/windows)
 
