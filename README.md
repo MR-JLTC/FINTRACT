@@ -1,6 +1,7 @@
 ![headerlogo](https://github.com/MR-JLTC/FINTRACT/assets/168248719/6f99af16-227a-4857-bddf-d01850f7e878)
 
 ## :octocat:SYSTEM AVAILABILITY
+`CLI VERSION`
 [![Static Badge](https://img.shields.io/badge/Termux%20-v1.0beta%20-g)](FINTRACT/releases/termux)
 [![Static Badge](https://img.shields.io/badge/Windows10%20-v1.0beta%20-blue)](FINTRACT/releases/windows)
 
@@ -8,8 +9,6 @@
 Unlock financial clarity with our CLI-powered personal financial tracker. Effortlessly log income and expenses, charting your financial journey with precision and control. Take command of your finances, one command at a time.
 
 -----
-## :octocat:CLI VERSION
-
 ### :octocat:Termux Installation
 1. Download the zip file, then extract it.
 2. After extracting the file, run the following command:
@@ -93,5 +92,11 @@ gd acnt SchoolDays --month Sept
 gd acnt SchooDays -all
 ```
 
-### :octocat:Output View
+### :octocat:DATA Output View
+`All Incomes & Expenses`
+![Screenshot 2024-06-12 170852](https://github.com/MR-JLTC/FINTRACT/assets/168248719/5bf87c01-6305-494b-8267-158959faa49e)
+
+`All Incomes & Expenses within the month`
+![Screenshot 2024-06-12 170958](https://github.com/MR-JLTC/FINTRACT/assets/168248719/c7a8c869-465a-4456-9760-f389e245dadf)
+
 -----
