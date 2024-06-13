@@ -1,4 +1,4 @@
-![headerlogo](https://github.com/MR-JLTC/FINTRACT/assets/168248719/6f99af16-227a-4857-bddf-d01850f7e878)
+is![headerlogo](https://github.com/MR-JLTC/FINTRACT/assets/168248719/6f99af16-227a-4857-bddf-d01850f7e878)
 
 ## :octocat:SYSTEM AVAILABILITY
 `CLI VERSION`
@@ -98,6 +98,5 @@ gd acnt SchooDays -all
 ![Screenshot 2024-06-12 170852](https://github.com/MR-JLTC/FINTRACT/assets/168248719/5bf87c01-6305-494b-8267-158959faa49e)
 
 `All Incomes & Expenses within the month`
-![Screenshot 2024-06-12 170958](https://github.com/MR-JLTC/FINTRACT/assets/168248719/c7a8c869-465a-4456-9760-f389e245dadf)
 
 -----
