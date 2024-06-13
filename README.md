@@ -98,5 +98,6 @@ gd acnt SchooDays -all
 ![Screenshot 2024-06-12 170852](https://github.com/MR-JLTC/FINTRACT/assets/168248719/5bf87c01-6305-494b-8267-158959faa49e)
 
 `All Incomes & Expenses within the month`
+![Screenshot 2024-06-13 135155](https://github.com/MR-JLTC/FINTRACT/assets/168248719/157f1f91-fee4-4f73-b4a4-67f40f7bee30)
 
 -----
