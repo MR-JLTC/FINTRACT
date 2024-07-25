@@ -1,7 +1,6 @@
 ![headerlogo](https://github.com/MR-JLTC/FINTRACT/assets/168248719/6f99af16-227a-4857-bddf-d01850f7e878)
 
 ## :octocat:SYSTEM AVAILABILITY
-`CLI VERSION`
 [![Static Badge](https://img.shields.io/badge/Windows10%20-v1.0beta%20-blue)](https://github.com/MR-JLTC/FINTRACT/releases/download/v1.0/Setup_Fintractv1.0.exe)
 
 ## 🔎DESCRIPTION
