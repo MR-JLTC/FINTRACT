@@ -2,9 +2,7 @@
 
 ## :octocat:SYSTEM AVAILABILITY
 `CLI VERSION`
-
-[![Static Badge](https://img.shields.io/badge/Termux%20-v1.0beta%20-g)](Fintract/releases/termux)
-[![Static Badge](https://img.shields.io/badge/Windows10%20-v1.0beta%20-blue)](Fintract/releases/windows)
+[![Static Badge](https://img.shields.io/badge/Windows10%20-v1.0beta%20-blue)](https://github.com/MR-JLTC/FINTRACT/releases/download/v1.0/Setup_Fintractv1.0.exe)
 
 ## 🔎DESCRIPTION
 Unlock financial clarity with my personal financial tracker system. Effortlessly log income and expenses, charting your financial journey with precision and control. Take command of your finances, one command at a time.
