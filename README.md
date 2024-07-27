@@ -2,9 +2,9 @@
 ▒█▀▀▀ ▀█▀ ▒█▄░▒█ ▀▀█▀▀ ▒█▀▀█ ░█▀▀█ ▒█▀▀█ ▀▀█▀▀ <br>
 ▒█▀▀▀ ▒█░ ▒█▒█▒█ ░▒█░░ ▒█▄▄▀ ▒█▄▄█ ▒█░░░ ░▒█░░ <br>
 ▒█░░░ ▄█▄ ▒█░░▀█ ░▒█░░ ▒█░▒█ ▒█░▒█ ▒█▄▄█ ░▒█░░<br>
-<br>
+<h4>Available Versions:</h4>
   
-[![Static Badge](https://img.shields.io/badge/Windows10%20-v1.0beta%20-blue)](https://github.com/MR-JLTC/FINTRACT/releases/download/v1.0/Setup_Fintractv1.0.exe)
+[![Static Badge](https://img.shields.io/badge/Windows-%20Console-blue)](https://github.com/MR-JLTC/FINTRACT/releases/download/v1.0/Setup_Fintractv1.0.exe)
 </div>
 
 ## 🔎DESCRIPTION
