@@ -5,11 +5,11 @@
 <h4>Available Versions:</h4>
   
 [![Static Badge](https://img.shields.io/badge/Windows-%20Console-blue)](https://github.com/MR-JLTC/FINTRACT/releases/download/v1.0/Setup_Fintractv1.0.exe)
-</div>
 
 <h4>:eye_speech_bubble:Upcoming Release Version:</h4>
 
 ![Static Badge](https://img.shields.io/badge/Android-%20MobileApp-green?style=flat&logo=android&logoColor=white)
+</div>
 
 ## 🔎DESCRIPTION
 Unlock financial clarity with my personal financial tracker system. Effortlessly log income and expenses, charting your financial journey with precision and control. Take command of your finances, one command at a time.
